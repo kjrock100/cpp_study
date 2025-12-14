@@ -1,0 +1,60 @@
+[submodule "books/modern-cpp-tutorial"]
+	path = books/modern-cpp-tutorial
+	url = git@github.com:changkun/modern-cpp-tutorial.git
+[submodule "repo/TheAlgorithms-C-Plus-Plus"]
+	path = repo/TheAlgorithms-C-Plus-Plus
+	url = git@github.com:TheAlgorithms/C-Plus-Plus.git
+[submodule "books/modern-cpp-features"]
+	path = books/modern-cpp-features
+	url = git@github.com:AnthonyCalandra/modern-cpp-features.git
+[submodule "books/EffectiveModernCppChinese"]
+	path = books/EffectiveModernCppChinese
+	url = git@github.com:CnTransGroup/EffectiveModernCppChinese.git
+[submodule "books/Cpp_Primer_Practice"]
+	path = books/Cpp_Primer_Practice
+	url = git@github.com:applenob/Cpp_Primer_Practice.git
+[submodule "repo/CppCoreGuidelines"]
+	path = repo/CppCoreGuidelines
+	url = git@github.com:isocpp/CppCoreGuidelines.git
+[submodule "books/CPlusPlusThings"]
+	path = books/CPlusPlusThings
+	url = git@github.com:Light-City/CPlusPlusThings.git
+[submodule "books/leetcode"]
+	path = books/leetcode
+	url = git@github.com:haoel/leetcode.git
+[submodule "examples/yzzy/modern-cpp"]
+	path = examples/yzzy/modern-cpp
+	url = https://gitlab.com/yzzy/modern-cpp.git
+[submodule "examples/yzzy/modern-oop"]
+	path = examples/yzzy/modern-oop
+	url = https://gitlab.com/yzzy/modern-oop.git
+[submodule "examples/yzzy/modern-friend"]
+	path = examples/yzzy/modern-friend
+	url = https://gitlab.com/yzzy/modern-friend.git
+[submodule "examples/yzzy/modern-polymorphic"]
+	path = examples/yzzy/modern-polymorphic
+	url = https://gitlab.com/yzzy/modern-polymorphic.git
+[submodule "examples/yzzy/modern-namespace"]
+	path = examples/yzzy/modern-namespace
+	url = https://gitlab.com/yzzy/namespace.git
+[submodule "examples/yzzy/smart-pointer"]
+	path = examples/yzzy/smart-pointer
+	url = https://gitlab.com/yzzy/smart-pointer.git
+[submodule "examples/The-C-20-Masterclass-Source-Code"]
+	path = examples/The-C-20-Masterclass-Source-Code
+	url = git@github.com:rutura/The-C-20-Masterclass-Source-Code.git
+[submodule "examples/parallel101"]
+	path = examples/parallel101
+	url = git@github.com:parallel101/course.git
+[submodule "books/cmake-cookbook"]
+	path = books/cmake-cookbook
+	url = git@github.com:dev-cafe/cmake-cookbook.git
+[submodule "thirdparty/boost"]
+	path = thirdparty/boost
+	url = git@github.com:boostorg/boost.git
+[submodule "books/cs-self-learning"]
+	path = books/cs-self-learning
+	url = git@github.com:PKUFlyingPig/cs-self-learning.git
+[submodule "examples/TheChernoCppTutorial_Code"]
+	path = examples/TheChernoCppTutorial_Code
+	url = git@github.com:remolaz/TheChernoCppTutorial_Code.git
